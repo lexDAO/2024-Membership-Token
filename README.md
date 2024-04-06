@@ -1,5 +1,9 @@
-# LexDAO-MembershipToken-2023
-An outline of the current workflow to deploy a simple custom 2023 ERC 721 NFT Token
+# LexDAO MembershipToken
+
+## EYE1
+
+The legal possession of this `CRED` token is [recordat]
+An outline of the current workflow to deploy a simple custom ERC 721 NFT Token
 
 # Plan Framework and Concept
 -----------------
