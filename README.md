@@ -2,20 +2,32 @@
 
 ## EYE1
 
-The legal possession of this `CRED` token is [recordat]
+The legal possession of this `CRED` token is [recordat]() of the _social engagement_, skills, and side-projects of the owner. In conjunction with srCRED [^1] ¿TBA?, it is LexDAO's assessment (passive and active/explicit voting) of participating in legal engineering activities including:
+- POAP attendance in studygroups or hackerthons;
+- TCR - indicating preference in token curated registries [^2] for an activity or priority;
+- funded activities such as working for membership or gaining a levelup via hackathon quest.
+
+## HOW2
+
 An outline of the current workflow to deploy a simple custom ERC 721 NFT Token
 
-# Plan Framework and Concept
------------------
-## Date Marker
-The plan frameowork and concept were last updated 2023-03-08
+Membership Flow Mockup -  [Excalidraw link](https://excalidraw.com/#room=2129b2214566ba2e246d,ykrk2lDXqfz4XnEUXArLBQ)
+  ![Membership Join Flow](https://user-images.githubusercontent.com/106759485/229314079-b935c399-103d-48dc-9dc1-b703409a6262.png)
 
+> [!CAUTION]
+> There will be progressive upgrade in the associated contracts ... currently by minting a new token every year, the information loses continuity so an important worktask is to find the right improvements in ERC721 such as handles and not pointers.
 
-## Core Script Files
+## WHO4
+Only for paidup members (opt-out) and l'externs (mandatory). Guests are assumed by default to be anonymous (but can voluntarily opt-in) and will not participate in the srCRED measurement (though their impact may flow onto members as in popular choice voting for most popular mentor).  
+
+## HIV5
+### Plan Framework and Concept
+<!--- too much detail here, move into other files and just summarise in a protocol diagram -->
+
+### Core Script Files
 [LexDAO Token Generator](https://github.com/cimplylimited/file-processing-scripts)
 
-
-## Base Minting Needs
+### Base Minting Needs
   - [x] Create a json seed file for the NFT 
   - [x] Create an image seed file for the NFT
   - [x] Create a script to duplicate and increment the json seed file
@@ -43,7 +55,19 @@ The plan frameowork and concept were last updated 2023-03-08
   - [ ] Audit the current 2022 membership token for expiration
   - [ ] Grandfather in relevant members per Operating System Document
   
-  ## Contract Risk Checks
+## MUT8 Date Marker
+The plan frameowork and concept were last updated 2023-03-08
+
+## BOT9 - using lexy or kay to parse ruleset and passively trigger audits
+
+We use the legal tests of:
+- more likely than not
+- on the balance of probabiliies
+- beyond reasonable doubt
+
+by running multiple discord bots and weighing their frame assessment to automate the central accounting problem.
+
+### Contract Risk Checks
   In order to help begin the process of trying to minimize risk factors, the following are some checks that we will be trying to build into the contract mint protocol
   - [ ] OFAC Sanction List checks
   - [ ] Flash Loan vulnerabilities
@@ -58,10 +82,7 @@ The plan frameowork and concept were last updated 2023-03-08
   - [ ] Build the use of delays and guardians
   - [ ] Perform security assessments (especially with upgrades)
 
-  
-  # Membership Flow Mockup -  [Excalidraw link](https://excalidraw.com/#room=2129b2214566ba2e246d,ykrk2lDXqfz4XnEUXArLBQ)
-  ![Membership Join Flow](https://user-images.githubusercontent.com/106759485/229314079-b935c399-103d-48dc-9dc1-b703409a6262.png)
-
+----
  # Governance Considerations of Smart Contracts for DAO
  ! [Open Zepplin Presentation on Security Considerations](https://youtu.be/GbDAmMdmh8Q?feature=shared)
   - Considerations around Administrative Transfer of Powers
