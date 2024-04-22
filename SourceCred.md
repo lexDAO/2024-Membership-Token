@@ -35,7 +35,9 @@ The general economic incentive is along cooperative principles ... any surplus g
 timeline
   Experiment (alpha) : Install sourceCred
     : ☑️ prelim armitage.xyz
-    : install discord plugin
+    : ◻ install discord plugin
+    : encode specific LexDAO emojis (roman 👍👎 + kiwi ✊✋ abstain/concern voting)
+    : track specific APNG sticker usage
   Design (beta) : Configure + CRED integration
   Tune (deploy) :  Play with weights to get srCRED
   Squabble (delta) : Argue whether right behaviour is incentivised
