@@ -24,3 +24,31 @@ In order for the 1155 to interact properly with the 721, we will need help from 
 ## Key Partners
 This effort would not be possible without the key partnership and contributions of...**fill in**
 
+## 1155 Architecture
+### Outline
+
+In order for the DAO to work toward progressive decentralization, we will need to adopt additional on chain governance and structure changes.  The foundation of our network architecture must be sound and intentional in its deployment to ensure that the essence of the group manifests accurately in the code.  Currently we have a variety of conflated roles all managed through a sophisticated, but still primative off-chain governance structure.
+
+The next version of the DAO requires a network tree that codifies these network patterns and represents three critical resolutions of the organization with a certificate-oriented role tree.  
+> !note
+> Currently Draft Material
+
+1. Brand Layer
+How does the organization interact with other organizations it owns, partners, or affiliates with?
+
+
+
+2. Organization Layer
+How do actions manifest in roles and responsibilities throughout the group?  Can we create an agile organizational map that has the capacity to conduct business in both the digital and physical world?  How do we ensure that our brand remains closed but our work remains open?
+
+![Organization Layer Concept](image.png)
+
+
+3.  Users and Groups Layer
+How are individuals admitted into the organization?  What is their eligibility?  How can we track their reputation within the organization to grant influence?  How can we reward contributions by granting reputation and thus empowering the reputation of the organization?  What natural barriers can we implement that discourages sybil attacks et. al?    
+
+![Commitees == Groups](image-1.png)
+
+![Membership Roles](image-2.png)
+
+LexDAO's biggest asset is not money, but the engaged contributions of a brilliant member pool.  Therefore, in an effort to create a platform for people with common interests in Law as a Public Good, we must prioritize informed engagement as the number one criteria for governing the future of the Organization and Brand Layers by the Individuals.
