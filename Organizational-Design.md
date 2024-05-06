@@ -24,6 +24,26 @@ In order for the 1155 to interact properly with the 721, we will need help from 
 ## Key Partners
 This effort would not be possible without the key partnership and contributions of...**fill in**
 
+### Julien
+
+### Chris
+
+### Spencer Graham 
+ * implementation, smart contract development, and support
+ * Hats Protocol: Co-founder & Protocol Lead Hat Wearer
+ * Previous work: core contributor to DAOhaus, member of Raid Guild, MetaCartel, and groundw3rk, contributor to clr.fund
+
+### Nick Naraghi (nintynick) 
+ * implementation, support, and stakeholder education
+ * Hats Protocol: Co-founder, Strategy Lead Hat & Growth Lead Hat Wearer
+ * Previous work: co-founder of EvenGov DAO, member of Raid Guild, groundw3rk, DIA, co-founder of an AI startup backed by 500 Startups
+
+### David Ehrlichman 
+ * implementation, support, and stakeholder education
+ * Hats Protocol: Co-founder & Ecosystem Lead Hat Wearer
+ * Previous work: author of Impact Networks, co-founder of Converge, consultant to 50+ multi-stakeholder collaborations around the world, lead organizer for DAO Camp, founding steward of groundw3rk, contributor to EvenGov
+
+
 ## 1155 Architecture
 ### Outline
 
